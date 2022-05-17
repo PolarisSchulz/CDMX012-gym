@@ -16,3 +16,11 @@ __Ejemplo:__
 ## Objetivos de aprendizaje (OAs)
 
 - Strings
+
+
+
+
+### Reply
+function hello(name){ 
+    return "Hello " + name + "!"; 
+} 
