@@ -22,8 +22,8 @@ __Ejemplo:__
 
 
 
-### Reply
-
+### Respuesta
+```js
 function firstLast6(nums){
 
   if (nums[0] == 6 || nums[nums.length-1] == 6)
@@ -31,3 +31,4 @@ function firstLast6(nums){
   else return false;
   
 }
+```
