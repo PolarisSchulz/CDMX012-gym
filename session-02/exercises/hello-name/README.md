@@ -20,9 +20,8 @@ __Ejemplo:__
 
 
 
-### Reply
+```js
 function hello(name){ 
-
     return "Hello " + name + "!"; 
-    
 } 
+```
