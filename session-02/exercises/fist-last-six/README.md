@@ -21,7 +21,6 @@ __Ejemplo:__
 
 
 
-
 ### Respuesta
 ```js
 function firstLast6(nums){
