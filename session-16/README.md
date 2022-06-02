@@ -1,4 +1,4 @@
-# Sesión 16
+# Sesión 16 - 26/05/2022
 
 ## Ejercicios
 
@@ -17,3 +17,7 @@
 #### Advanced
 
 - [Rocket Lab](./exercises/rocket-lab-web)
+
+## kahoot
+
+[https://create.kahoot.it/share/gym-session-16/8800c1c0-7449-4491-85f8-cc2451789091](https://create.kahoot.it/share/gym-session-16/8800c1c0-7449-4491-85f8-cc2451789091)
